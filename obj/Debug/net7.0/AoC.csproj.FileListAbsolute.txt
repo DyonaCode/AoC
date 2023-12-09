@@ -1,0 +1,15 @@
+/Users/jamesrogers/code/AoC/bin/Debug/net7.0/AoC
+/Users/jamesrogers/code/AoC/bin/Debug/net7.0/AoC.deps.json
+/Users/jamesrogers/code/AoC/bin/Debug/net7.0/AoC.runtimeconfig.json
+/Users/jamesrogers/code/AoC/bin/Debug/net7.0/AoC.dll
+/Users/jamesrogers/code/AoC/bin/Debug/net7.0/AoC.pdb
+/Users/jamesrogers/code/AoC/obj/Debug/net7.0/AoC.csproj.AssemblyReference.cache
+/Users/jamesrogers/code/AoC/obj/Debug/net7.0/AoC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamesrogers/code/AoC/obj/Debug/net7.0/AoC.AssemblyInfoInputs.cache
+/Users/jamesrogers/code/AoC/obj/Debug/net7.0/AoC.AssemblyInfo.cs
+/Users/jamesrogers/code/AoC/obj/Debug/net7.0/AoC.csproj.CoreCompileInputs.cache
+/Users/jamesrogers/code/AoC/obj/Debug/net7.0/AoC.dll
+/Users/jamesrogers/code/AoC/obj/Debug/net7.0/refint/AoC.dll
+/Users/jamesrogers/code/AoC/obj/Debug/net7.0/AoC.pdb
+/Users/jamesrogers/code/AoC/obj/Debug/net7.0/AoC.genruntimeconfig.cache
+/Users/jamesrogers/code/AoC/obj/Debug/net7.0/ref/AoC.dll
